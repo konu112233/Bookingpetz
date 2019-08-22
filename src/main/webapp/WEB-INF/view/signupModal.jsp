@@ -176,7 +176,7 @@
                         <!--Facebook-->
                     <button type="button" onclick="fbLogin()" id="fbLink" class="btn btn-white btn-rounded mr-md-3 z-depth-1a"><i class="fab fa-facebook-f text-center"></i></button>
                                    
-                        <!--Google +-->
+                        <!--Googles +-->
                          
                     <div id="customSignup" >
                     <button type="button" class="btn btn-white btn-rounded z-depth-1a"><i class="fab fa-google-plus-g"></i></button> 
